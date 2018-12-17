@@ -5,6 +5,6 @@ tramite un questionario
 # come utilizzare
 aprire terminale e digitare:
 
-git clone 
-cd sentiero-scout
-python sentiero.py
+git clone https://github.com/lucagamerro/sentiero-scout.git <br>
+cd sentiero-scout <br>
+python sentiero.py <br>
