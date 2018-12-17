@@ -4,8 +4,7 @@ tramite un questionario
 
 # come utilizzare
 aprire terminale e digitare:
-<code> git clone 
-  
-<code> cd cst 
-  
-<code> python cst.py 
+
+git clone 
+cd sentiero-scout
+python sentiero.py
