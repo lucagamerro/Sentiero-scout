@@ -4,6 +4,6 @@ tramite un questionario
 
 # come utilizzare
 aprire terminale e digitare:
-<code> git clone <\code> <br>
-<code> cd cst <\code> <br>
-<code> python cst.py <\code> <br>
+<code> git clone <br>
+<code> cd cst <br>
+<code> python cst.py <br>
