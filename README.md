@@ -1,10 +1,23 @@
 # Sentiero Scout
-programma che crea file .csv con dati richiesti 
-tramite un questionario 
+Aggiungere automaticamente gli impegni del sentiero scout a <br>
+un file .csv che si crea in automatico.
 
-# come utilizzare
-aprire terminale e digitare:
+# Utilizzo
+## Linux
+Aprire terminale e digitare: <br>
+<code> git clone https://github.com/lucagamerro/sentiero-scout.git </code> <br>
+<code> cd sentiero-scout </code> <br>
+<code> python sentiero.py </code> <br>
+## Windows
+Scaricare la zip, unzippare, e fare <br> 
+doppio click sul file sentiero.exe
 
-git clone https://github.com/lucagamerro/sentiero-scout.git <br>
-cd sentiero-scout <br>
-python sentiero.py <br>
+# Informazioni
+## Sviluppo
+Progetto ideato, sviluppato e testato da Luca Gamerro. <br>
+## Versione
+Versione 1.1 inline
+Versione 1.2 inline
+Versione 1.3 inline
+Versione 2.1 GUI
+Versione 2.2 GUI
