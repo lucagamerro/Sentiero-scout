@@ -16,8 +16,8 @@ doppio click sul file sentiero.exe
 ## Sviluppo
 Progetto ideato, sviluppato e testato da Luca Gamerro. <br>
 ## Versione
-Versione 1.1 inline
-Versione 1.2 inline
-Versione 1.3 inline
-Versione 2.1 GUI
-Versione 2.2 GUI
+Versione 1.1 inline <br>
+Versione 1.2 inline <br>
+Versione 1.3 inline <br>
+Versione 2.1 GUI <br>
+Versione 2.2 GUI <br>
