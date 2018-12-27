@@ -10,7 +10,8 @@ Aprire terminale e digitare: <br>
 <code> python sentiero.py </code> <br>
 ## Windows
 Scaricare la zip, unzippare, e fare <br> 
-doppio click sul file sentiero.exe
+doppio click sul file sentiero.exe <br>
+[non rimuovere dalla cartella con i file]
 
 # Informazioni
 ## Sviluppo
