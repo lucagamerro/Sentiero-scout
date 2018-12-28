@@ -9,12 +9,16 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> cd sentiero-scout </code> <br>
 <code> python sentiero.py </code> <br>
 ## Windows
-Cliccare su <b> fie-eseguibile.md </b>, andare sul link di Google Drive, <br> 
-scaricare i file e inserirli in un unica catella. Per far <br>
-si che i file vengano nascosti tasto detro del muose, proprieta', <br>
-nascondi file, visualizza, togliere la spunta da 'visulizza file nascosti'. <br>
-[non rimuovere dalla cartella con i file]
-
+Scaricare la repository, decomprimere, <br>
+individuare il file <b> sentiero-eseguibile.zip </b> <br>
+decomprimere e, lasciandolo nella cartella sentiero-eseguibile, <br>
+Utilizzare. Se si desidera si possono nascondere i file <br>
+di troppo <i> in questo modo: </i> <br>
+1. Tasto detro del muose <br>
+2. Proprieta <br>
+3. Nascondi file <br>
+4. Visualizza <br>
+5. Rimuovere la spunta da 'visulizza file nascosti' <br>
 # Informazioni
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
