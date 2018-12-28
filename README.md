@@ -7,10 +7,10 @@ un file .csv che si crea in automatico.
 Aprire <b> terminale </b> e digitare: <br>
 <code> git clone https://github.com/lucagamerro/sentiero-scout.git </code> <br>
 <code> cd sentiero-scout </code> <br>
-<code> python sentiero.py </code> <br>
+<code> python sentiero-2.2.py </code> <br>
 ## Windows
 Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
-https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-eseguibile.zip <br>
+https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip <br>
 e decomprimere (per decomprimere: https://sourceforge.net/projects/sevenzip/files/7-Zip/). <br>
 Lanciare il file sentiero.exe e utilizzare. <br>
 Se si desidera, si possono nascondere i file di troppo in questo modo: <br>
