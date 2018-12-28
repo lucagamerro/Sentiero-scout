@@ -9,11 +9,11 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> cd sentiero-scout </code> <br>
 <code> python sentiero.py </code> <br>
 ## Windows
-Scaricare la repository, decomprimere, [per decomprimere: https://sourceforge.net/projects/sevenzip/files/7-Zip/]<br>
-individuare il file <b> sentiero-eseguibile.zip </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-eseguibile.zip] <br>
-decomprimere e, lasciandolo nella cartella sentiero-eseguibile, <br>
-Utilizzare. Se si desidera si possono nascondere i file <br>
-di troppo <i> in questo modo: </i> <br>
+Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
+https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-eseguibile.zip <br>
+e decomprimere (per decomprimere: https://sourceforge.net/projects/sevenzip/files/7-Zip/). <br>
+Lanciare il file sentiero.exe e utilizzare. <br>
+Se si desidera, si possono nascondere i file di troppo in questo modo: <br>
 Tasto detro del muose <br>
 Proprieta <br>
 Nascondi file <br>
@@ -23,7 +23,7 @@ Rimuovere la spunta da 'visulizza file nascosti' <br>
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
 ## Versioni
-<b> Versione 2.2 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] <br>
+<b> Versione 2.2 inline </b> <link> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] </link> <br>
 Versione 2.1 inline <br>
 <b> Versione 1.3 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] <br>
 Versione 1.2 GUI <br>
