@@ -9,7 +9,7 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> cd sentiero-scout </code> <br>
 <code> python sentiero.py </code> <br>
 ## Windows
-Scaricare la repository, decomprimere, <br>
+Scaricare la repository, decomprimere, [per decomprimere: https://sourceforge.net/projects/sevenzip/files/7-Zip/]<br>
 individuare il file <b> sentiero-eseguibile.zip </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-eseguibile.zip] <br>
 decomprimere e, lasciandolo nella cartella sentiero-eseguibile, <br>
 Utilizzare. Se si desidera si possono nascondere i file <br>
