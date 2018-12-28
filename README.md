@@ -14,11 +14,11 @@ individuare il file <b> sentiero-eseguibile.zip </b> [https://github.com/lucagam
 decomprimere e, lasciandolo nella cartella sentiero-eseguibile, <br>
 Utilizzare. Se si desidera si possono nascondere i file <br>
 di troppo <i> in questo modo: </i> <br>
-1) Tasto detro del muose <br>
-2) Proprieta <br>
-3) Nascondi file <br>
-4) Visualizza <br>
-5) Rimuovere la spunta da 'visulizza file nascosti' <br>
+Tasto detro del muose <br>
+Proprieta <br>
+Nascondi file <br>
+Visualizza <br>
+Rimuovere la spunta da 'visulizza file nascosti' <br>
 #  Informazioni 
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
