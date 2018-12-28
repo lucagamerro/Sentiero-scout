@@ -19,7 +19,7 @@ di troppo <i> in questo modo: </i> <br>
 3. Nascondi file <br>
 4. Visualizza <br>
 5. Rimuovere la spunta da 'visulizza file nascosti' <br>
-# Informazioni
+#  Informazioni 
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
 ## Versioni
