@@ -17,8 +17,8 @@ Lanciare il file sentiero-eseguibile.exe e utilizzare. <br>
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
 ## Versioni
-<b> Versione 2.2 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] <br>
-Versione 2.1 inline <br>
+<b> Versione 2.2 GUI </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] <br>
+Versione 2.1 GUI <br>
 <b> Versione 1.3 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-2.2.py] <br>
-Versione 1.2 GUI <br>
-Versione 1.1 GUI <br>
+Versione 1.2 inline <br>
+Versione 1.1 inline <br>
