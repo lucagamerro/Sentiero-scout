@@ -11,7 +11,7 @@ Aprire <b> terminale </b> e digitare: <br>
 [Nota: utilizzare i privilegi di amministratore]
 ## Windows
 Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
-https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip . <br>
+https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip <br>
 Decomprimere il file, [per decomprimere: https://sourceforge.net/projects/sevenzip/] <br>
 Lanciare il file sentiero-eseguibile.exe e utilizzare. <br>
 #  Informazioni 
