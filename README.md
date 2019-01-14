@@ -10,7 +10,8 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> python sentiero-2.2.py </code> <br>
 ## Windows
 Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
-https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile <br>
+https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip . <br>
+Decomprimere il file, [per decomprimere: https://sourceforge.net/projects/sevenzip/] <br>
 Lanciare il file sentiero-eseguibile.exe e utilizzare. <br>
 #  Informazioni 
 ## Sviluppo
