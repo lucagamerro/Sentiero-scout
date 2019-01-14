@@ -8,6 +8,7 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> git clone https://github.com/lucagamerro/sentiero-scout.git </code> <br>
 <code> cd sentiero-scout </code> <br>
 <code> python sentiero-2.2.py </code> <br>
+[Nota: utilizzare i privilegi di amministratore]
 ## Windows
 Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
 https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip . <br>
