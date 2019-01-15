@@ -10,10 +10,9 @@ Aprire <b> terminale </b> e digitare: <br>
 <code> python3.7 sentiero-3.4.py </code> <br>
 [Nota: utilizzare i privilegi di amministratore]
 ## Windows
-Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
-https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero-eseguibile.zip <br>
-Decomprimere il file, [per decomprimere: https://sourceforge.net/projects/sevenzip/] <br>
-Lanciare il file sentiero-eseguibile.exe e utilizzare. <br>
+Scaricare il file <b> sentiero.exe </b> al link: <br>
+https://github.com/lucagamerro/sentiero-scout/raw/master/sentiero.exe <br>
+Lanciare il file sentiero.exe e utilizzare. <br>
 #  Informazioni 
 ## Sviluppo
 Progetto ideato, sviluppato e testato da <b> Luca Gamerro. </b> <br>
