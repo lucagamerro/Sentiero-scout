@@ -1,6 +1,6 @@
 # Sentiero Scout
 Aggiungere automaticamente gli impegni del <b> sentiero scout </b> a <br>
-un file .csv che vine creato in automatico.
+un file .csv che viene creato in automatico.
 
 # Utilizzo
 ## Linux
