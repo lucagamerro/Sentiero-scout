@@ -7,7 +7,7 @@ un file .csv che viene creato in automatico.
 Aprire <b> terminale </b> e digitare: <br>
 <code> git clone https://github.com/lucagamerro/sentiero-scout.git </code> <br>
 <code> cd sentiero-scout </code> <br>
-<code> python sentiero-2.2.py </code> <br>
+<code> python3.7 sentiero-3.4.py </code> <br>
 [Nota: utilizzare i privilegi di amministratore]
 ## Windows
 Scaricare il file <b> sentiero-eseguibile.zip </b> al link: <br>
