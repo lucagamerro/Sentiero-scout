@@ -46,7 +46,7 @@ def gettone():
         out_file.write(salute)
         out_file.write("; ")
         out_file.write(aiuto)
-        out_file.write("; ")
+        out_file.write("\n ")
         out_file.close()
         fn = Label(ro, text="Salvando il file...").pack()
         sleep(1)
