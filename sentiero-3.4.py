@@ -3,8 +3,8 @@ try:
     from time import sleep
 except ImportError:
     print("Per poter eseguire queto file, installare le librerie:")
-    print("tkinter [pip install tkinter]")
-    print("time [pip instal time]")
+    print("°tkinter [pip install tkinter]")
+    print("°time [pip instal time]")
 
 
 def gettone():
@@ -52,10 +52,10 @@ def gettone():
         out_file.write(salute)
         out_file.write("; ")
         out_file.write(aiuto)
-        out_file.write("\n ")
+        out_file.write("\n")
         out_file.write("\n")
         out_file.close()
-        fn = Label(ro, text="Salvando il file...").pack()
+        fn = Label(ro, text="File Salvato!").pack()
         sleep(1)
         exit()
     except:
@@ -92,11 +92,11 @@ f = Label(ro, text="Formazione del carattere:")
 f.pack()
 caratterep = Entry(ro)
 caratterep.pack()
-g = Label(ro, text="Salute e forza fisica")
+g = Label(ro, text="Salute e forza fisica:")
 g.pack()
 salutep = Entry(ro)
 salutep.pack()
-h = Label(ro, text="Aiuto al prossimo")
+h = Label(ro, text="Aiuto al prossimo:")
 h.pack()
 aiutop = Entry(ro)
 aiutop.pack()
