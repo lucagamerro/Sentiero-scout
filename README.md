@@ -28,6 +28,6 @@ Versione 2.1 GUI <br>
 Versione 1.2 inline <br>
 Versione 1.1 inline <br>
 ### Ruby
-<b> Versione 1.3 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-rubyversion.rb]
+<b> Versione 1.3 inline </b> [https://github.com/lucagamerro/sentiero-scout/blob/master/sentiero-ruby-1.3.rb]
 Versione 1.2 inline <br>
 Versione 1.1 inline <br>
