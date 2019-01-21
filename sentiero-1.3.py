@@ -35,7 +35,7 @@ out_file.write(';')
 out_file.write(input('Impegno per il reparto: '))
 out_file.write('\n')
 out_file.close()
-
+ 
 print('[*]exit[*]')
 exit()
 
